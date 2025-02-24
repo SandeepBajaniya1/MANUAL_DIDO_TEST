@@ -1,0 +1,5 @@
+/DefaultBuild/
+/.vscode
+/VC 
+*.bak
+*.c.bak
